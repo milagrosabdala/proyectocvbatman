@@ -1,0 +1,60 @@
+/* estilo header*/
+.header-batman {
+  background-color: #e5e5e5;
+}
+.titulo-principal {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  color: #005677;
+  letter-spacing: 10px;
+  font-weight: bold;
+  background-color: #c4c4c4;
+}
+
+/* ESTILO SECTIONS*/
+h2 {
+  display: block;
+  text-transform: uppercase;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: #005677;
+  letter-spacing: 10px;
+  font-weight: bold;
+  background-color: #c4c4c4;
+}
+section {
+    line-height: 16,68px;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-left: 8em;
+  margin-right: 8em;
+}
+li,
+dt,
+dd {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+}
+.nombrecompleto,
+.fechanacimiento,
+.lugarnacimiento {
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+dd {
+  text-indent: 50px;
+}
+
+/* FOOTER*/
+footer {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  text-align: center;
+  color: aliceblue;
+  background-color: #005677;
+  font-weight: bold;
+}
