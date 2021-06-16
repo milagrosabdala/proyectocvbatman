@@ -25,7 +25,7 @@ h2 {
   background-color: #c4c4c4;
 }
 section {
-    line-height: 16,68px;
+  line-height: 16, 68px;
   display: block;
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -46,9 +46,11 @@ dd {
   font-style: italic;
 }
 dd {
-  text-indent: 50px;
+  text-indent: 45px;
 }
-
+li {
+  line-height: 2em;
+}
 /* FOOTER*/
 footer {
   font-family: "Times New Roman", Times, serif;
